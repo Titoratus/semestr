@@ -1,0 +1,15 @@
+{
+  "name": "bootstrap4-grid-only",
+  "homepage": "https://github.com/dmhendricks/bootstrap-grid-css",
+  "version": "4.0.0-alpha.6",
+  "_release": "4.0.0-alpha.6",
+  "_resolution": {
+    "type": "version",
+    "tag": "v4.0.0-alpha.6",
+    "commit": "6711a7ad8b8a0f27526e77f611b3d5a4d484db90"
+  },
+  "_source": "https://github.com/dmhendricks/bootstrap-grid-css.git",
+  "_target": "^4.0.0-alpha.6",
+  "_originalSource": "bootstrap4-grid-only",
+  "_direct": true
+}
